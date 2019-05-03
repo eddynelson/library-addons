@@ -1,0 +1,5 @@
+<odoo>
+  <menuitem id='library-menu-root' name='Library' sequence='1' />
+  <menuitem id='library-menu-category' name='Book' parent='library-menu-root' sequence='1' />
+  <menuitem id='activation-library-menu-category' parent='library-menu-category' name='Book' parent='library-menu-root' sequence='1' />
+</odoo>
